@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+}
+input{
+    width: 40%;
+    height: 5vh;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 4px;
+    font-size: 20px;
+}
